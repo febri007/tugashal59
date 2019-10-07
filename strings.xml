@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Tugashal59</string>
+    <string-array name="spinner_country">
+        <item>Indonesia</item>
+        <item>Thailand</item>
+        <item>Jepang</item>
+        <item>Amerika</item>
+    </string-array>
+</resources>
